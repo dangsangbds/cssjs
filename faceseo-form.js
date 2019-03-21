@@ -111,16 +111,16 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="https://docs.google.com/forms/d/e/1FAIpQLSciSlkRD34asrSfJSBFuVCXBE-O3e7thsEgrROjXOOobfsy9Q/formResponse";
+var urlform="https://docs.google.com/forms/d/e/1FAIpQLSeIJAPYwE7IPNFMPZVp5IJg2aVDvxqOXh2N4-kasMgg4IGyDg/formResponse";
 var urlchuyen=window.location.href;
-var hovaten="333764603";
-var dienthoai="641001031";
-var email="897730390";
-var duan="1137771254";
+var hovaten="1888604827";
+var dienthoai="710182357";
+var email="403168915";
+var duan="451570997";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
-var hotline="0931342229";
+var hotline="0902377302";
 var linkhientai=window.location.href;
 var thoigiancookie=1;
 var thoigianhien=10000;
@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://dangsanggroup.blogspot.com";
+	window.location="https://www.dangsangland.com/";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
